@@ -6,3 +6,4 @@
 
 1. `pip install -r reqirements.txt`
 2. `python main.py`
+
